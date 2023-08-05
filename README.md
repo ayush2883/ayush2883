@@ -25,5 +25,6 @@ Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer w
 ## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/ayush-singh-9b6a78206/
+- Email: ayush561singh@gmail.com
 
 Feel free to explore my repositories and check out my contributions. If you find anything interesting or have any suggestions, don't hesitate to reach out. Let's connect and build amazing things together! 🚀
