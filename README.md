@@ -2,18 +2,18 @@
 
 
 
-Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer with a strong background in AWS, C++, Python, and MySQL. I love to build scalable and efficient solutions that make a positive impact on people's lives. 
+Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer with a strong background in AWS, C++ and MySQL. I love to build scalable and efficient solutions that make a positive impact on people's lives. 
 
 ## About Me
 
 - 🌱 I’m constantly learning and exploring new technologies to stay up-to-date with the latest advancements in the tech world.
 - 🤝 I’m open to collaborations and always interested in contributing to exciting open-source projects.
-- 💬 Ask me about anything related to AWS, C++, Python, or MySQL. I'd be happy to help!
+- 💬 Ask me about anything related to AWS, C++ or MySQL. I'd be happy to help!
 - 😄 Pronouns: He/Him
 
 ## Tech Stack
 
-- Programming Languages: C++, Python
+- Programming Languages: C++
 - Database: MySQL
 - Cloud Services: Amazon Web Services (AWS)
 - Version Control: Git
@@ -24,6 +24,6 @@ Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer w
 
 ## Connect with Me
 
-- LinkedIn: Ayush Singh(https://www.linkedin.com/in/ayush-singh-9b6a78206/)
+- LinkedIn: https://www.linkedin.com/in/ayush-singh-9b6a78206/
 
 Feel free to explore my repositories and check out my contributions. If you find anything interesting or have any suggestions, don't hesitate to reach out. Let's connect and build amazing things together! 🚀
