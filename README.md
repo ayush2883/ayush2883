@@ -20,7 +20,7 @@ Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer w
 
 ## Projects
 
- Cloud Based Tourism Transit Bus Pass System (https://github.com/ayush2883/Cloud-Based-Tourism-Transit-Pass-System.git): A web application , utilizing AWS S3 for file storage and EC2 for hosting.
+ [Cloud Based Tourism Transit Bus Pass System](https://github.com/ayush2883/Cloud-Based-Tourism-Transit-Pass-System.git): A web application , utilizing AWS S3 for file storage and EC2 for hosting.
 
 ## Connect with Me
 
