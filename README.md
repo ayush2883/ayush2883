@@ -5,16 +5,6 @@ Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer w
 ###
 
 ## About Me
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-</div>
-
 - 🌱 I’m constantly learning and exploring new technologies to stay up-to-date with the latest advancements in the tech world.
 - 🤝 I’m open to collaborations and always interested in contributing to exciting open-source projects.
 - 💬 Ask me about anything related to AWS, C++ or MySQL. I'd be happy to help!
@@ -29,10 +19,8 @@ Hello, fellow developers! 👋 I'm Ayush Singh, a passionate software engineer w
 ###
 
 ## Projects
-<br clear="both">
 
  [Cloud Based Tourism Transit Bus Pass System](https://github.com/ayush2883/Cloud-Based-Tourism-Transit-Pass-System.git): A web application , utilizing AWS S3 for file storage and EC2 for hosting.
-<img src="https://raw.githubusercontent.com/ayush2883/ayush2883/output/snake.svg" alt="Snake animation" />
 
 ## Connect with Me
 
